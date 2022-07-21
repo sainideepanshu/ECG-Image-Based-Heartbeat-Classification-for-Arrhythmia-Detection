@@ -1,11 +1,11 @@
-# ECG Image Based Heartbeat Classification for Arrhythmia Detection Using IBM Watson Studio
- In this repository I have created Machine Learning Model Using IBM cloud Deployment
- ECG- Image Based Heartbeat Classification For Arrhythmia Detection Using IBM Watson Studio
+# ECG Image Based Heartbeat Classification for Arrhythmia Detection 
+ 
+ ECG- Image Based Heartbeat Classification For Arrhythmia Detection 
 
 
 Designed By:
 
-Anshuman Raina
+Deepanshu Saini
 
 
 1. Introduction
